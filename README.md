@@ -1,5 +1,5 @@
 # Arrays Lab
-
+ 
 ## Problem Statement
 
 We've learned about how arrays work. We know that `push()` pushes elements onto
